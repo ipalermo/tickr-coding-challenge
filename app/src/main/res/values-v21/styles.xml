@@ -1,0 +1,9 @@
+
+
+<resources>
+
+    <style name="Theme.Challenge" parent="Base.Theme.Challenge">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <color name="challenge_black">#de000000</color>
+    <color name="challenge_gray_50">#fafafa</color>
+    <color name="challenge_gray_50_a600">#99fafafa</color>
+    <color name="challenge_blue_300">#65b6f6</color>
+    <color name="challenge_blue_500">#2397f3</color>
+    <color name="challenge_blue_700">#1a77d2</color>
+    <color name="challenge_blue_900">#0D47A1</color>
+    <color name="challenge_white">#deffffff</color>
+    <color name="challenge_yellow_300">#f8f99f</color>
+    <color name="challenge_yellow_500">#ffff63</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="ShapeAppearance.Challenge.Card" parent="ShapeAppearance.MaterialComponents">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/card_corner_radius</item>
+    </style>
+
+    <style
+        name="ShapeAppearance.Challenge.FAB"
+        parent="ShapeAppearance.MaterialComponents.SmallComponent" />
+
+</resources>

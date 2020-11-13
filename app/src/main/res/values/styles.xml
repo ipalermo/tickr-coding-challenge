@@ -1,0 +1,30 @@
+
+
+<resources>
+
+    <!-- To see how these attributes are used, please visit https://material.io/develop/android/theming/color/ -->
+    <style name="Base.Theme.Challenge" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/challenge_blue_500</item>
+        <item name="colorOnPrimary">@color/challenge_yellow_500</item>
+        <item name="colorPrimaryDark">@color/challenge_blue_700</item>
+        <item name="colorOnSurface">@color/challenge_black</item>
+        <item name="colorAccent">@color/challenge_blue_700</item>
+        <item name="colorSurface">@color/challenge_gray_50</item>
+        <item name="colorSecondary">@color/challenge_yellow_500</item>
+        <item name="android:colorBackground">@color/challenge_blue_500</item>
+    </style>
+
+    <style name="Theme.Challenge" parent="Base.Theme.Challenge"/>
+
+    <style name="Theme.Challenge.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Challenge.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"/>
+
+    <style name="TextAppearance.Challenge.Toolbar.Text" parent="TextAppearance.MaterialComponents.Headline5" >
+        <item name="android:textColor">?attr/colorOnSurface</item>
+    </style>
+
+</resources>
